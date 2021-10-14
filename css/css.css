@@ -5,8 +5,12 @@ background-color: rgb(225, 176, 240);
 
 .sizing{
     border:10px rgb(247, 105, 247);
+    width:200px;
+    height:200px;
     width:50%;
     height:50%;
+
+    font: size 10px;
 } 
 
 .using-rem{
