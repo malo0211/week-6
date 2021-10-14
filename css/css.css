@@ -4,7 +4,11 @@ background-color: rgb(225, 176, 240);
 }
 
 .sizing{
-    border:5px rgb(236, 129, 236);
+    border:5px rgb(247, 105, 247);
     width:50%;
     height:50%;
 } 
+
+.using-rem{
+    font-size:2rem;
+}
