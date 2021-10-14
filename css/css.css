@@ -5,4 +5,6 @@ background-color: rgb(225, 176, 240);
 
 .sizing{
     border:5px rgb(236, 129, 236);
-}
+    width:50%;
+    height:50%;
+} 
