@@ -2,3 +2,7 @@
 body{
 background-color: rgb(225, 176, 240);
 }
+
+.sizing{
+    border:5px rgb(236, 129, 236);
+}
